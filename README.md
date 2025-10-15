@@ -1,8 +1,13 @@
-# Deliverables
-
 [**Shared google drive**](https://drive.google.com/drive/folders/1l4Lk-Vf48PNgYtPrPXCtd_GTFKiuEJku)
 
-**Req1 document**
-to add at end when everything's been converted to pdf
+# Deliverables
 
-**etc.**
+[**Requirements (Req1.pdf)**](link)
+
+[**Architecture (Arch1.pdf)**](link)
+
+[**Method Selection and planning (Plan1.pdf)**](link)
+
+[**Risk assessment and mitigation (Risk1.pdf)**](link)
+
+[**Implementation (Impl1.pdf)**](link)
