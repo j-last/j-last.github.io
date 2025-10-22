@@ -11,3 +11,12 @@
 [**Risk assessment and mitigation (Risk1.pdf)**](link)
 
 [**Implementation (Impl1.pdf)**](link)
+
+# Weekly Team Kanban Snapshots
+
+
+# Early Architecture
+
+**CRC Cards**
+
+**Initial UML diagram draft**
