@@ -32,5 +32,15 @@ Week 5
 # Early Architecture
 
 **CRC Cards**
+The process followed for making our CRC cards can be found [**here**](https://drive.google.com/file/d/1k9vFMTyseqqFRsH0n3Jnhc62Ez8VVGAo/view?usp=drive_link).
+
+Otherwise, see below for the initial and final screenshots.
+
+Initial CRC cards:
+<img width="1527" height="806" alt="crc_cards_initial" src="https://github.com/user-attachments/assets/43440d28-6b64-43f0-9c5f-80e26ce8dcc7" />
+
+CRC cards after refinement (orgainised into a tree):
+<img width="1600" height="757" alt="crc_cards_in_tree" src="https://github.com/user-attachments/assets/b5617c1c-34be-40c1-b622-d6567eea0b01" />
+
 
 **Initial UML diagram draft**
