@@ -12,7 +12,7 @@
 
 [**Implementation (Impl1.pdf)**](link)
 
-# Weekly Team Kanban Snapshots
+# Weekly Team Kanban Snapshots (see plan1.pdf)
 Week 1
 <img width="1435" height="264" alt="image" src="https://github.com/user-attachments/assets/2b7ac6d8-a0f5-402b-9440-582f413fb4e8" />
 
@@ -29,11 +29,12 @@ Week 5
 <img width="1439" height="348" alt="image" src="https://github.com/user-attachments/assets/bdc28f2d-5a75-4c00-a0a2-a7690f0b528d" />
 
 
-# Early Architecture
+# Development of the design (see arch1.pdf)
+
+[**Designer Story**](https://drive.google.com/file/d/101LYRoqgAsZr1rWj46QbK9kFJfvhTRWr/view?usp=drive_link)
 
 **CRC Cards**
 The process followed for making our CRC cards can be found [**here**](https://drive.google.com/file/d/1k9vFMTyseqqFRsH0n3Jnhc62Ez8VVGAo/view?usp=drive_link).
-
 Otherwise, see below for the initial and final screenshots.
 
 Initial CRC cards:
@@ -42,5 +43,9 @@ Initial CRC cards:
 CRC cards after refinement (orgainised into a tree):
 <img width="1600" height="757" alt="crc_cards_in_tree" src="https://github.com/user-attachments/assets/b5617c1c-34be-40c1-b622-d6567eea0b01" />
 
-
 **Initial UML diagram draft**
+The process followed for converting our CRC cards to an initial class diagram can be found [**here**](https://drive.google.com/file/d/1u5Pa9I_QoRFOUnS5VstKnek8CN3375YS/view?usp=drive_link)
+Alternatively, here is the image:
+<img width="855" height="622" alt="initial_class_diagram" src="https://github.com/user-attachments/assets/fef79a93-3c5a-4776-aac4-da6cbd74c9a6" />
+
+
